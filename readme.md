@@ -2,6 +2,7 @@
 
 The AI Integration Protocol (AIP) is a standardized approach for managing AI-generated integration mappings and maintaining a standard for exchanging schemas between systems.
 
+
 ## Key Features
 
 - Central AI Integration Platform as a Service (AI IPASS)
@@ -10,6 +11,8 @@ The AI Integration Protocol (AIP) is a standardized approach for managing AI-gen
 - Automated schema polling and RAG updates
 - Vector store for efficient data retrieval
 - Secure and compliant data handling
+
+[View the architecture diagram here](docs/architecture-diagram.md)
 
 ## Documentation
 

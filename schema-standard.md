@@ -41,3 +41,11 @@ All schemas must include:
   },
   "required": ["id", "name", "email"]
 }
+```
+
+## 5. Schema Retrieval API
+- Systems must expose an endpoint for schema retrieval:
+```
+GET /api/v1/schemas
+```
+- Response should be a list of available schemas with their versions.
