@@ -1,0 +1,14 @@
+{
+    "schemas": [
+      {
+        "name": "User",
+        "version": "v1.0.0",
+        "url": "https://example.com/api/v1/schemas/user"
+      },
+      {
+        "name": "Product",
+        "version": "v2.1.0",
+        "url": "https://example.com/api/v1/schemas/product"
+      }
+    ]
+  }
