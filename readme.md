@@ -1,4 +1,4 @@
-# AI Integration Protocol (AIF)
+# Autonomous Integration Framework (AIF)
 
 The Autonomous Integration Framework (AIF) is a standardized approach and set of tools for managing AI-generated integration mappings and maintaining a standard for exchanging schemas between systems.
 
