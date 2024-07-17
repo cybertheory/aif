@@ -1,6 +1,6 @@
-# AI Integration Protocol (AIP)
+# AI Integration Protocol (AIF)
 
-The AI Integration Protocol (AIP) is a standardized approach for managing AI-generated integration mappings and maintaining a standard for exchanging schemas between systems.
+The Autonomous Integration Framework (AIF) is a standardized approach and set of tools for managing AI-generated integration mappings and maintaining a standard for exchanging schemas between systems.
 
 
 ## Key Features
